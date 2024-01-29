@@ -1,4 +1,4 @@
-js-learning
+**js-learning**
 
 Where am I learning react from?
 
