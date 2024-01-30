@@ -1,6 +1,6 @@
-js-learning
+**js-learning**
 
-Where am I learning react from?
+Where am I learning javascriptfrom?
 
 from various youtube channels - HuXn Webdev and Chai aur Code
 
